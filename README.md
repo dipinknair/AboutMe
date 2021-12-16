@@ -13,11 +13,13 @@
 [<img align="left" alt="dip1n | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 
-
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dipinknair)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipinknair&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=dipinknair" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipinknair" />
+</a>
 
 [mail]: mailto:nairdk@mail.uc.edu
 [website]: https://dipinknair.github.io
