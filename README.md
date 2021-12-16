@@ -58,7 +58,7 @@
 ➡️ [more videos...](https://youtube.com/codestackr)
 
 ---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dipinknair&repo=github-readme-stats)](https://github.com/dipinknair/github-readme-stats)
+
 
 
 ---
