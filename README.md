@@ -1,6 +1,6 @@
 ## About me
 
-- 🧑🏽‍💻 Looking for Intership/Full time opportunities.
+- 🧑🏽‍💻 Looking for Intership/Full time opportunities on Summer 22
 - 🎓 M.S in Mechanical Engineering (Robotics) at [CDS lab](https://www.ceas.uc.edu/research/centers-labs/cooperative-distributed-systems-lab.html)
 - 🌱 I’m currently learning ROS2
 - ⚡ Fun fact: I love to draw and Supports Liverpool FC
