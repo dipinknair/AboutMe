@@ -1,9 +1,16 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=dipinknair/dipinknair">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+there!+👋;I+am+DIpin.;&center=true&size=30&color=4C1DBF&width=435">
+  </a>
+</h1>
+
 ## About me
 
 - 🧑🏽‍💻 Looking for Full time opportunities - Graduating in August 2023
-- 🎓 M.S in Mechanical Engineering (Robotics) at [CDS lab](https://www.ceas.uc.edu/research/centers-labs/cooperative-distributed-systems-lab.html)
-- 🌱 I’m currently learning ROS
-- ⚡ Fun fact: I love to draw and Supports Liverpool FC
+- 🎓 M.S in Mechanical Engineering (Robotics) at University of Cincinnati -  [CDS lab](https://www.ceas.uc.edu/research/centers-labs/cooperative-distributed-systems-lab.html)
+- ⚡ Fun fact: I support Liverpool F.C - YNWA
 
 ### Connect with me:
 [<img align="left" alt="Dipin | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mail-dot-ru.svg" />][mail]
