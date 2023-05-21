@@ -8,7 +8,7 @@
 
 ## About me
 
-- 🧑🏽‍💻 Looking for Full time opportunities - Graduating in August 2023
+- 🧑🏽‍💻 Looking for Full time opportunities - Graduating in August 2023 - [Resume](https://dipinknair.github.io/resume/)
 - 🎓 M.S in Mechanical Engineering (Robotics) at University of Cincinnati -  [CDS lab](https://www.ceas.uc.edu/research/centers-labs/cooperative-distributed-systems-lab.html)
 - ⚡ Fun fact: I support Liverpool F.C - YNWA
 
