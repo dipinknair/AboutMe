@@ -1,4 +1,5 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=dipinknair/dipinknair">
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdipinknair&labelColor=%23dce775&countColor=%23555555)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
