@@ -41,7 +41,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
    </div>
 
-
+<!--  
 ## GitHub statistics
 ---
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -50,7 +50,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipinknair" />
 </a>
-
+-->
 [mail]: mailto:nairdk@mail.uc.edu
 [website]: https://dipinknair.github.io
 [twitter]: https://twitter.com/dip1n
